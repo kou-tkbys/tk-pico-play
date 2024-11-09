@@ -3,7 +3,7 @@
 ## barAnimation
 ### Hardware Connection（ハードウェア接続）
 
-
+![128X64LCD](image/128X64LCD.webp)
 
 ### main.cpp
 ```c++
@@ -25,6 +25,8 @@ void loop()
 
 ## cubeAnimation
 ### Hardware Connection（ハードウェア接続）
+
+![128X64LCD](image/128X64LCD.webp)
 
 ### main.cpp
 ```c++
@@ -74,6 +76,8 @@ void loop()
 
 ## circleAnimation
 ### Hardware Connection（ハードウェア接続）
+
+※Drawing is possible, but it's quite slow, so I'll fix it when I have time...（描画自体は可能だけれど、妙に遅いので暇なときに直す…）
 
 ### main.cpp
 ```c++
