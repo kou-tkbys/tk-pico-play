@@ -1,4 +1,4 @@
-# Playing with the Raspberry Pi Pico.（Raspberry pi pico で遊ぶ）
+# Playing with the Raspberry Pi Pico
 
 ## barAnimation
 ### Hardware Connection（ハードウェア接続）
